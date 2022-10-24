@@ -1,5 +1,5 @@
 package mx.edu.ittepic.ladm_u2_practica1_loteria
-
+// DESARROLLADO POR: JAZMIN OCHOA Y JUAN MATA
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
